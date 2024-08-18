@@ -1,5 +1,4 @@
 {
-  "proxy": "https://workoutbackend-r8xh.onrender.com",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
